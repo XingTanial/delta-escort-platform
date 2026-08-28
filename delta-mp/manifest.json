@@ -1,0 +1,36 @@
+{
+  "name": "三角洲",
+  "appid": "",
+  "description": "三角洲游戏服务平台",
+  "versionName": "1.0.0",
+  "versionCode": "100",
+  "transformPx": false,
+  "vueVersion": "3",
+  "mp-weixin": {
+    "appid": "",
+    "setting": {
+      "urlCheck": false,
+      "es6": true,
+      "minified": true,
+      "postcss": true
+    },
+    "usingComponents": true,
+    "lazyCodeLoading": "requiredComponents",
+    "window": {
+      "backgroundColor": "#f1f5f9",
+      "backgroundColorTop": "#f1f5f9",
+      "backgroundColorBottom": "#f1f5f9",
+      "navigationBarBackgroundColor": "#ffffff",
+      "navigationBarTextStyle": "white",
+      "initialRenderingCache": "static"
+    },
+    "optimization": {
+      "subPackages": true
+    },
+    "permission": {
+      "scope.userLocation": {
+        "desc": "用于获取您的位置信息"
+      }
+    }
+  }
+}
