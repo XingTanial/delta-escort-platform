@@ -22,6 +22,8 @@
 
 > **免备案香港服务器：[https://www.rainyun.com](https://www.rainyun.com/inedx_)**
 
+> **觉得部署过于麻烦？查看我的新项目免部署 直接注册账号就能获得当前项目的全部功能还有其新功能可使用**
+
 > **我的新项目https://gitee.com/lenglengyou/delta-game-plus； 项目官网：https://oppsplay.cn**
 
 > 项目围绕陪玩、代练、护航和虚拟服务接单场景设计，提供商品展示、动态下单、在线支付、客服派单、接单员抢单与履约、实时沟通、评价投诉、退款售后、收益结算和提现审核等完整业务流程。
