@@ -154,6 +154,3 @@ delta-game/
 | MySQL | 8.0+ |
 | Redis | 7+ |
 | 微信开发者工具 | 构建或调试微信小程序时需要 |
-
-
-![赞赏码](zanshang.jpg)
